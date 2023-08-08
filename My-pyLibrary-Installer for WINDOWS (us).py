@@ -5,7 +5,7 @@ import sys
 import subprocess
 
 # Variables
-Softwarename = "my-pyLibrary for WINDOWS by ClarigeClara"
+Softwarename = "my-pyLibrary-Installer for WINDOWS by ClarigeClara"
 Version = "Version 1.0.0"
 agree = ["y", "yes", "ya", "yee", "ye"]
 reject = ["n", "no", ""]
