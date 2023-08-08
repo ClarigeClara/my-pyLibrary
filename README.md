@@ -16,7 +16,7 @@ Da diese Fehlermeldung meist unerwartet auftritt und es sehr nerven kann, habe i
 <hr>
 System Requirement/Systemanforderung:
 <br>- Windows
-<br>- Linux
+<br>- Linux/MacOS
 <br><hr>
 required software/erforderliche Software:
 <br>- python3
