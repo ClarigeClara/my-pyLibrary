@@ -6,7 +6,7 @@ import subprocess
 
 # Variables
 Softwarename = "my-pyLibrary for LINUX by ClarigeClara (german)"
-Version = "Version 1.0.0"
+Version = "Version 1.0.1"
 agree = ["y", "yes", "ya", "yee", "ye", "ja", "j"]
 reject = ["n", "no", "nein", ""]
 step1_package1 = "discord"
@@ -34,7 +34,7 @@ print(f'''{Softwarename} | {Version}
 SCHRITT 1      ■ □ □ □ □ □ □ □ □ □\n   --> Deinstallation von discord und py-cord\n\n
 ''')
 step1 = input(f'(?) EINGABE ERFORDERLICH\nHast du die Bibliotheken "{step1_package1}" und "{step1_package2}" '
-              'auf dem System und diese entfernen?\nDrücke ENTER für "nein" (Drücke "j", um fortzufahren):\n')
+              'auf dem System und möchtest diese entfernen?\nDrücke ENTER für "nein" (Drücke "j", um fortzufahren):\n')
 if step1 in agree:
     print(f'[i] INFORMATION\nDie Bibliotheken  "{step1_package1}" und "{step1_package2}" '
           'werden auf dem System entfernt.')
