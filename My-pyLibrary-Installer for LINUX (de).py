@@ -5,8 +5,8 @@ import sys
 import subprocess
 
 # Variables
-Softwarename = "my-pyLibrary for LINUX by ClarigeClara (german)"
-Version = "Version 1.0.1"
+Softwarename = "my-pyLibrary-Installer for LINUX by ClarigeClara (german)"
+Version = "Version 1.0.2"
 agree = ["y", "yes", "ya", "yee", "ye", "ja", "j"]
 reject = ["n", "no", "nein", ""]
 step1_package1 = "discord"
@@ -84,7 +84,7 @@ if step3 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step3_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step3 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step3_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step3_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 
@@ -102,7 +102,7 @@ if step4 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step4_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step4 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step4_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step4_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 
@@ -120,7 +120,7 @@ if step5 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step5_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step5 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step5_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step5_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 
@@ -138,7 +138,7 @@ if step6 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step6_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step6 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step6_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step6_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 
@@ -156,7 +156,7 @@ if step7 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step7_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step7 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step7_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step7_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 
@@ -174,7 +174,7 @@ if step8 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step8_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step8 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step8_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step8_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 # STEP 9 | INSTALL python-dotenv
@@ -191,7 +191,7 @@ if step9 in agree:
     print(f'[i] INFORMATION\nDie Bibliothek "{step9_package}" wurde erfolgreich auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 if step9 in reject:
-    print(f'[i] INFORMATION\nDie Bibliothek "{step9_package}" auf dem System installiert.')
+    print(f'[i] INFORMATION\nDie Bibliothek "{step9_package}" wird NICHT auf dem System installiert.')
     input("Drücke ENTER, um fortzufahren...\n")
 
 # STEP 10 | ABGESCHLOSSEN
@@ -199,6 +199,7 @@ os.system('clear')
 print(f'''{Softwarename} | {Version}
 SCHRITT 10      □ □ □ □ □ □ □ □ □ ■\n
 
-BEENDEN! 
+
+BEENDET! 
 Das Skript wurde erfolgreich ausgeführt und wird nun beendet.
 Vielen Dank, dass du die Software benutzt hast.''')
