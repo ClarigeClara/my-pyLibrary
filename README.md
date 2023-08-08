@@ -1,7 +1,9 @@
-# my-pyLibrary
-My-pyLibrary-Installer for py-cord Dev's
+<h1>my-pyLibrary</h1>
 
-<hr>
+My-pyLibrary-Installer for py-cord Dev's
+<br><br>Version 1.0.0
+<br><a href="https://discord.gg/CChYARkpdZ">Supprt via Discord</a>
+<br><hr>
 (english // Englisch)<br>
 It is used to bypass the error message "from discord.commands import option" which you can get by installing py-cord.
 Since this error message usually occurs unexpectedly and it can be very annoying, I have programmed this software.
@@ -19,7 +21,6 @@ System Requirement/Systemanforderung:
 required software/erforderliche Software:
 <br>- python3
 <br>- pip
-<br>
 <br>
 <hr>
 Disclaimer:<br>
