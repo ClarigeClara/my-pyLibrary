@@ -6,7 +6,7 @@ import subprocess
 
 # Variables
 Softwarename = "my-pyLibrary-Installer for WINDOWS by ClarigeClara"
-Version = "Version 1.0.0"
+Version = "Version 1.0.1"
 agree = ["y", "yes", "ya", "yee", "ye"]
 reject = ["n", "no", ""]
 step1_package1 = "discord"
