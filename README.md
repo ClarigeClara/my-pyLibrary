@@ -1,7 +1,7 @@
 <h1>my-pyLibrary</h1>
 
 My-pyLibrary-Installer for py-cord Dev's
-<br><br>Version 1.0.0
+<br><br>Version 1.0.2
 <br><a href="https://discord.gg/CChYARkpdZ">Supprt via Discord</a>
 <br><hr>
 (english // Englisch)<br>
