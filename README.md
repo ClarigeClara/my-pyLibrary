@@ -10,7 +10,7 @@ Since this error message usually occurs unexpectedly and it can be very annoying
 <br><br><br>
 (german // Deutsch)<br>
 Der my-pyLibrary-Installer ist eine Software von ClarigeClara.
-Sie wird verwendet, um die Fehlermeldung "from discord.commands import option" zu umgehen, die man durch die Installation von py-cord auftreten kann.
+Sie wird verwendet, um die Fehlermeldung "from discord.commands import option" zu umgehen, die durch die Installation von py-cord auftreten kann.
 Da diese Fehlermeldung meist unerwartet auftritt und es sehr nerven kann, habe ich diese Software programmiert.
 
 <hr>
